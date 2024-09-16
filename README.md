@@ -1,4 +1,5 @@
 Consist of all the neccessary files from my seminar 
-The main code is labelled is poly.c
-it also consist of additonal photos to explain the code 
+--->The main code is labelled is poly.c
+--->It also consist of additonal photos to explain the code.
+
 Play with the code and have fun 
