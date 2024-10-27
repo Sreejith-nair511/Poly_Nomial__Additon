@@ -1,6 +1,5 @@
 /* program for addition of two polynomials
- polynomial are stored using structure
- and program uses array of structure
+ .... program uses array of structure
 */
 #include<stdio.h>
 
